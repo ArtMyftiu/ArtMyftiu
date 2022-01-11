@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArtMyftiu
+- 👋 Hi, I’m Art Myftiu
 - 👀 I’m interested in Google dorking and PopCat
 - 🌱 I’m currently learning about crypto [Bitcoin,Ethereum,Doge]
 - 💞️ I’m looking to collaborate on Covid 19 awareness apps, being ready for the next pandemic 
